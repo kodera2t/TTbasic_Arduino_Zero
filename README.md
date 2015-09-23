@@ -8,3 +8,5 @@ Not only BASIC source, Adafruit_SSD1306 library related files should
 be replaced with the files above for SAMD21G18A (Arduino M0) operation.
 Also, please replace "samd21_device.c" in your Arduino cores directory
 for correct serial operation.
+This program is supporting my Arduino M0 compatible board, released at
+https://hackaday.io/project/7355-minimum-zero-compatible-sam-d21g18-d21e18-board
